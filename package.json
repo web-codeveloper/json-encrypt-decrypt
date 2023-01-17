@@ -1,0 +1,22 @@
+{
+  "name": "json-encrypt-decrypt",
+  "version": "1.0.0",
+  "description": "encrypt and decrypt json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-codeveloper/json-encrypt-decrypt.git"
+  },
+  "author": "Partha Mandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-codeveloper/json-encrypt-decrypt/issues"
+  },
+  "homepage": "https://github.com/web-codeveloper/json-encrypt-decrypt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
