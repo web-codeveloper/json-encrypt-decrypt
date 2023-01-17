@@ -30,4 +30,4 @@ const decryptedJson = customizeJson.decrypt(encryptedJson, secretOrPrivateKey);
 
 ## Author
 
-[Partha Mandal]
+### Partha Mandal
