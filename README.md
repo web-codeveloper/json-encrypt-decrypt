@@ -8,4 +8,8 @@ $ npm install json-encrypt-decrypt
 
 ```js
 const customizeJson = require('json-encrypt-decrypt')
+
+const encryptedJson = customizeJson.encrypt(json, secretOrPrivateKey)
+
+const decryptedJson = customizeJson.decrypt(encryptedJson, secretOrPrivateKey)
 ```
